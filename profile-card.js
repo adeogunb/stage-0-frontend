@@ -8,7 +8,7 @@ function renderProfileCard(){
           
           
         <figure>
-        <img src="./profile.jpg" alt="" data-testid="test-user-avatar">
+        <img src="./pictures/profile.jpg" alt="" data-testid="test-user-avatar">
         </figure>
         <header data-testid="test-user-name">
           ADEOGUN JAMIU
@@ -29,9 +29,9 @@ function renderProfileCard(){
         
 
         <nav data-testid="test-user-social-links">
-          <a href="https://www.twitter.com/adeogunjamiu1"><img src="./twitter.png" class= "logos"></a>
-          <a href="https://www.instagram.com/jamiu.adeogun.965"><img src="./instagram.png" class= "logos"></a>
-          <a href="https://www.github.com/adeogunb"><img src="./github.png" class= "logos"></a>
+          <a href="https://www.twitter.com/adeogunjamiu1"><img src="./pictures/twitter.png" class= "logos"></a>
+          <a href="https://www.instagram.com/jamiu.adeogun.965"><img src="./pictures/instagram.png" class= "logos"></a>
+          <a href="https://www.github.com/adeogunb"><img src="./pictures/github.png" class= "logos"></a>
         
 
         </nav>
