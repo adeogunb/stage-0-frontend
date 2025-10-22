@@ -29,9 +29,9 @@ function renderProfileCard(){
         
 
         <nav data-testid="test-user-social-links">
-          <a href="https://www.twitter.com/adeogunjamiu1"><img src="./pictures/twitter.png" class= "logos"></a>
-          <a href="https://www.instagram.com/jamiu.adeogun.965"><img src="./pictures/instagram.png" class= "logos"></a>
-          <a href="https://www.github.com/adeogunb"><img src="./pictures/github.png" class= "logos"></a>
+          <a href="https://www.twitter.com/adeogunjamiu1" target="_blank"><img src="./pictures/twitter.png" class= "logos"></a>
+          <a href="https://www.instagram.com/jamiu.adeogun.965" target="_blank"><img src="./pictures/instagram.png" class= "logos"></a>
+          <a href="https://www.github.com/adeogunb" target="_blank"><img src="./pictures/github.png  class= "logos"></a>
         
 
         </nav>
